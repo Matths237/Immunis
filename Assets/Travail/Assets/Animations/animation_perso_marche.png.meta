@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 45eeb0b62cd0b7244a8432cba37b04c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1401379915723039618
+    second: animation_perso_marche_0
+  - first:
+      213: 2404918561753560029
+    second: animation_perso_marche_1
+  - first:
+      213: -2336497983100400278
+    second: animation_perso_marche_2
+  - first:
+      213: 4373073203936395767
+    second: animation_perso_marche_3
+  - first:
+      213: 3930168554834833273
+    second: animation_perso_marche_4
+  - first:
+      213: 700527171169178851
+    second: animation_perso_marche_5
+  - first:
+      213: -2084326873569689706
+    second: animation_perso_marche_6
+  - first:
+      213: -7161535057484825269
+    second: animation_perso_marche_7
+  - first:
+      213: -282543565440140942
+    second: animation_perso_marche_8
+  - first:
+      213: 5100026812357829269
+    second: animation_perso_marche_9
+  - first:
+      213: -190520341769672298
+    second: animation_perso_marche_10
+  - first:
+      213: -4003735586065136973
+    second: animation_perso_marche_11
+  - first:
+      213: 3629805515799582364
+    second: animation_perso_marche_12
+  - first:
+      213: -125572027889482165
+    second: animation_perso_marche_13
+  - first:
+      213: 4543992873031150579
+    second: animation_perso_marche_14
+  - first:
+      213: -5847477292542938251
+    second: animation_perso_marche_15
+  - first:
+      213: 5650042924698287809
+    second: animation_perso_marche_16
+  - first:
+      213: 170445385791994108
+    second: animation_perso_marche_17
+  - first:
+      213: 497345679254905829
+    second: animation_perso_marche_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animation_perso_marche_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1423
+        width: 300
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283e908cb93b27310800000000000000
+      internalID: 1401379915723039618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_perso_marche_1
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1423
+        width: 300
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3701ba0bcff5120800000000000000
+      internalID: 2404918561753560029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_perso_marche_2
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1423
+        width: 299
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d42e2b677139fd0800000000000000
+      internalID: -2336497983100400278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_perso_marche_3
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 1422
+        width: 297
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f18861d8e640bc30800000000000000
+      internalID: 4373073203936395767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_perso_marche_4
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1421
+        width: 294
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f275a4a73ca8630800000000000000
+      internalID: 3930168554834833273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_perso_marche_5
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 1418
+        width: 289
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e45c0920c5c8b900800000000000000
+      internalID: 700527171169178851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_perso_marche_6
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 1416
+        width: 283
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ff31170cbf213e0800000000000000
+      internalID: -2084326873569689706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_perso_marche_7
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 1414
+        width: 280
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d3c140fcd1d9c90800000000000000
+      internalID: -7161535057484825269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_perso_marche_8
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 1413
+        width: 278
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2793e5ccf14341cf0800000000000000
+      internalID: -282543565440140942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_perso_marche_9
+      rect:
+        serializedVersion: 2
+        x: 3433
+        y: 1413
+        width: 277
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5926e8f5d5fe6c640800000000000000
+      internalID: 5100026812357829269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_perso_marche_10
+      rect:
+        serializedVersion: 2
+        x: 3787
+        y: 1413
+        width: 278
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699255232c22b5df0800000000000000
+      internalID: -190520341769672298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_perso_marche_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 778
+        width: 279
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b24ff972bfdf68c0800000000000000
+      internalID: -4003735586065136973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_perso_marche_12
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 779
+        width: 280
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96dcf492e8af5230800000000000000
+      internalID: 3629805515799582364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_perso_marche_13
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 781
+        width: 284
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b460cebe7e0e14ef0800000000000000
+      internalID: -125572027889482165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_perso_marche_14
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 784
+        width: 289
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbade261718f0f30800000000000000
+      internalID: 4543992873031150579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_perso_marche_15
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 786
+        width: 294
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573b0d9326699dea0800000000000000
+      internalID: -5847477292542938251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_perso_marche_16
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 787
+        width: 298
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ceb954da1cf86e40800000000000000
+      internalID: 5650042924698287809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_perso_marche_17
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 788
+        width: 299
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf87cb1ec2b8d5200800000000000000
+      internalID: 170445385791994108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_perso_marche_18
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 788
+        width: 300
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3609e924de6e600800000000000000
+      internalID: 497345679254905829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      animation_perso_marche_0: 1401379915723039618
+      animation_perso_marche_1: 2404918561753560029
+      animation_perso_marche_10: -190520341769672298
+      animation_perso_marche_11: -4003735586065136973
+      animation_perso_marche_12: 3629805515799582364
+      animation_perso_marche_13: -125572027889482165
+      animation_perso_marche_14: 4543992873031150579
+      animation_perso_marche_15: -5847477292542938251
+      animation_perso_marche_16: 5650042924698287809
+      animation_perso_marche_17: 170445385791994108
+      animation_perso_marche_18: 497345679254905829
+      animation_perso_marche_2: -2336497983100400278
+      animation_perso_marche_3: 4373073203936395767
+      animation_perso_marche_4: 3930168554834833273
+      animation_perso_marche_5: 700527171169178851
+      animation_perso_marche_6: -2084326873569689706
+      animation_perso_marche_7: -7161535057484825269
+      animation_perso_marche_8: -282543565440140942
+      animation_perso_marche_9: 5100026812357829269
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
